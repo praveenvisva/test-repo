@@ -3,3 +3,6 @@ coding train
 lucidprogramming
 thenewboston
 ryanstutorials
+Blogs:
+waitbutwhy
+lesswrong
