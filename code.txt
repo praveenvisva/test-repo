@@ -6,4 +6,6 @@ ryanstutorials
 Blogs:
 waitbutwhy
 lesswrong
-medium.com
+movies:
+A man from the earth
+The Butterfly Effect
