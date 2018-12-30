@@ -6,3 +6,4 @@ ryanstutorials
 Blogs:
 waitbutwhy
 lesswrong
+medium.com
